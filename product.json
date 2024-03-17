@@ -5,7 +5,7 @@
         "chemicalFormula": "NOVALURON 5.25%+INDOXACARB 4.5% W/W SC",
         "packSizes": "250ml, 500ml, 1ltr",
         "recommendaton": "Novaluron 5.25% + Indoxacarb 5% ww.SC is used for the control of pest on Tomato, Chickpea Soyabean, Pigeon, Chilli, Groundnut, Blackgram, and Rice",
-        "image": "require(\"@/public/products/tapasya/product.png\")"
+        "image": "/public/products/tapasya/product.png"
     },
     {
         "folderName": "caliber",
@@ -13,7 +13,7 @@
         "chemicalFormula": "NOVALURON 5.25% + EMAMECTIN BENZOATE 0.9% W/W SC",
         "packSizes": "250ml, 500ml, 1ltr",
         "recommendaton": "Novaluron 5.25% + Emamectin Benzoate 0.9% ww.SC. is used for the control of Diamond back moth (DBM) & Tobacco caterpillar on Cabbage, Gram pod borer & Tobacco caterpillar in Chilli, Gram pod borer in Redgram and Stam barer in Rice. ",
-        "image": "require(\"@/public/products/caliber/product.png\")"
+        "image": "/public/products/caliber/product.png"
     },
     {
         "folderName": "virupaaksha",
@@ -21,7 +21,7 @@
         "chemicalFormula": "ABAMECTIN 1.9% EC",
         "packSizes": "100ml, 250ml, 500ml, 1ltr",
         "recommendaton": "Abamectin 1.9% EC is a broad spectrum insecticide and araricide, is effective for the control of two spotted spider mites in rose.",
-        "image": "require(\"@/public/products/virupaaksha/product.png\")"
+        "image": "/public/products/virupaaksha/product.png"
     },
     {
         "folderName": "lizol",
@@ -29,7 +29,7 @@
         "chemicalFormula": "PYRIPROXYFEN 5% + DIAFENTHIURON 25% SE",
         "packSizes": "250ml, 500ml, 1ltr",
         "recommendaton": "For the control of whitefly (Bemisia tabci), Thrips, Jasid and Aphid in cotton as foliar spray",
-        "image": "require(\"@/public/products/lizol/product.png\")"
+        "image": "/public/products/lizol/product.png"
     },
     {
         "folderName": "guarantee",
@@ -37,7 +37,7 @@
         "chemicalFormula": "CHLORANTRANIPROL 9.3% + LAMBDA CYHALOTHRIN 4.6% ZC",
         "packSizes": "250ml, 500ml, 1ltr",
         "recommendaton": "Chlorantraniliprole 9.3% + Lambda-Cyhalothrin 4.6% ZC is an insecticide used for the control of pod borer in pigeon pea, bollworm complex in cotton, jassids in brinjal and okra. Stem borer ,leaf folder, green leaf hopper in rice crop and leaf worm, girdle beetle, semilooper, stem fly in soybean crop",
-        "image": "require(\"@/public/products/guarantee/product.png\")"
+        "image": "/public/products/guarantee/product.png"
     },
     {
         "folderName": "online",
@@ -45,7 +45,7 @@
         "chemicalFormula": "THIAMETHOXAM 12.6% + LAMBDA CYHALOTHRIN 9.5% ZC",
         "packSizes": "250ml, 500ml, 1ltr",
         "recommendaton": "Thiamethoxam 12.6%w/w + Lambdacyhalothrin 9.5%w/w zc is an insecticide recommended for the control of aphids, jassids, thrips & bollworms in cotton (@ 44 g ai/ha or 200 ml formulation/ha) ; aphids, shoot fly & stem borer in maize (@ 27.5 g ai/ha or 125 ml formulation/ha) and other crops are mentioned on leaflet.",
-        "image": "require(\"@/public/products/online/product.png\")"
+        "image": "/public/products/online/product.png"
     },
     {
         "folderName": "iccforex",
@@ -53,7 +53,7 @@
         "chemicalFormula": "PHENTHOATE 50% EC",
         "packSizes": "100ml, 250ml, 500ml, 1ltt",
         "recommendaton": "It is recommenced to control Rice case worm of paddy Bihar hairy caterpillar of black gram, pod borer of gram, Bhiar hairy caterpillar and pod borer of green gram, American bollworm, spotted bollworm, pink boll worm of cotton and leaf webber of Ground nut.",
-        "image": "require(\"@/public/products/iccforex/product.png\")"
+        "image": "/public/products/iccforex/product.png"
     },
     {
         "folderName": "pickup",
@@ -61,7 +61,7 @@
         "chemicalFormula": "DIAFENTHIURON 47% + BIFENTHRIN 9.4% SC",
         "packSizes": "250ml, 500ml, 1ltr",
         "recommendaton": " It is a broad spectrum contact and stomach insecticide used for the control of Thrips, Leaf hoppers, White fly & Aphids in Cotton and Thrips & Aphids Chill,",
-        "image": "require(\"@/public/products/pickup/product.png\")"
+        "image": "/public/products/pickup/product.png"
     },
     {
         "folderName": "diamondSuper",
@@ -69,7 +69,7 @@
         "chemicalFormula": "DIAFENTHIURON 47.8% SC ",
         "packSizes": "250ml, 500ml, 1ltr",
         "recommendaton": "Diafenthiuron 47.8% W/W SC a Broad Spectrum non systemic Insecticide having contact and stomach activity is recommended for its use to control Aphids, Jassids & White flies in Cotton Crop. Diafenthiuron belongs to group 12A of insecticide mode of action.",
-        "image": "require(\"@/public/products/diamondSuper/product.png\")"
+        "image": "/public/products/diamondSuper/product.png"
     },
     {
         "folderName": "iccChase",
@@ -77,6 +77,6 @@
         "chemicalFormula": "PYMETROZINE 50% WG",
         "package": "400+115ml, 800+230ml",
         "recommendation": "PYMETROZINE 50% WG is a novel insecticide with different chemistry which provides powerful control against Rice plant hopper. Chase can also control all stages of Aphids, Whiteflies.",
-        "image": "require(\"@/public/products/iccChase/product.png\")"
+        "image": "/public/products/iccChase/product.png"
     }
 ]
